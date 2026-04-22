@@ -377,17 +377,8 @@ amplify publish
 
 ---
 
-## 17. 🔥 Bonus (Optional)
 
-* Dead Letter Queue (DLQ)
-* Retry mechanism
-* API caching
-* Encryption (S3 & RDS)
-* Rate limiting API Gateway
-
----
-
-## 18. 🧠 Notes
+## 17. 🧠 Notes
 
 * Gunakan naming convention:
 
